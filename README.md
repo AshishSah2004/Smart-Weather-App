@@ -127,7 +127,7 @@ python -m streamlit run app.py
 
 ## 🌐 Live Demo
 
-🚀 Coming soon...
+🚀 [Open Smart Weather App] (https://ashish-smart-weather-app.streamlit.app/)
 
 ---
 
